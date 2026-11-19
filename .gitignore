@@ -1,0 +1,4 @@
+# Dataset is downloaded separately (see README)
+Data/
+__pycache__/
+*.pyc
