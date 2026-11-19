@@ -1,0 +1,3 @@
+# Saved Keras models use .pb files; without this GitHub labels the repo as PureBasic
+models/** linguist-vendored
+*.pb linguist-detectable=false
